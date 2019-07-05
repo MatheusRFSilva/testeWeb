@@ -1,0 +1,11 @@
+/Users/matheus/Projects/web/web/bin/Debug/netcoreapp2.0/web.deps.json
+/Users/matheus/Projects/web/web/bin/Debug/netcoreapp2.0/web.runtimeconfig.json
+/Users/matheus/Projects/web/web/bin/Debug/netcoreapp2.0/web.runtimeconfig.dev.json
+/Users/matheus/Projects/web/web/bin/Debug/netcoreapp2.0/web.dll
+/Users/matheus/Projects/web/web/bin/Debug/netcoreapp2.0/web.pdb
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.csprojAssemblyReference.cache
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.csproj.CoreCompileInputs.cache
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.AssemblyInfoInputs.cache
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.AssemblyInfo.cs
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.dll
+/Users/matheus/Projects/web/web/obj/Debug/netcoreapp2.0/web.pdb
